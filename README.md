@@ -1,2 +1,3 @@
-# dispatcher-servlet-demo
- 
+## SpringMVC-DispatcherDemo
+
+Demo project which illustrates dispatcher servlet in Spring MVC.
